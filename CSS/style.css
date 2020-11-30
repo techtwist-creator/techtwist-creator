@@ -1,0 +1,419 @@
+body {
+    background-color: black;
+    margin: 0px 150px 0px 150px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    overflow-x: hidden;
+}
+.navbar .navbar-collapse {
+  font-size: 14px;
+  text-align: center;
+}
+a{
+  color: white;
+}
+a:hover {
+  color: white;
+}
+li {
+  list-style: none;
+}
+.foot {
+  color: #ffffff;
+  padding-right: 20px;
+}
+.foot:hover {
+  color: #afafaf;
+}
+.copyright {
+  padding: 20px;
+}
+footer {
+  padding-top: 20px;
+}
+.sub{
+    padding: 16px;
+    border-width: 0px;
+    background-color: #000000;
+    box-shadow: 0px 0px 8px #ff6161;
+    border-radius: 40px !important;
+    color: #afafaf;
+}
+.navbar-toggler {
+    border: none;
+}
+.main {
+  padding-right: 50px;
+  margin: 150px 50px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 40px;
+  max-width: 100%;
+}
+.main1 {
+  margin-top: 100px;
+}
+.tag {
+  font-size: 20px;
+  font-weight: lighter;
+  padding: 20px;
+}
+.anim {
+  margin:40px 0px 0px;
+}
+.featured {
+  padding: 20px;
+}
+.b1 {
+  padding-top: 20px;
+}
+.frow {
+  background-color: #07080d;
+  margin:50px 0px 0px 0px;
+  padding: 20px;
+}
+.fimg {
+  max-width: 100%;
+  padding: 20px 20px 20px 40px; 
+}
+.mycontainer {
+  background-color: #07080d;
+  margin-top: 20px ;
+}
+.mycontainer11 {
+  margin-top: 120px ;
+}
+.big {
+  margin-top: 30px;
+  font-size: 30px;
+  text-align: start;
+}
+.small {
+  font-size: 16px;
+  font-weight: 200;
+  margin-top: 20px;
+  text-align: start;
+}
+.container2 { 
+  background-color: #101010;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding-bottom: 80px;
+}
+.bighead {
+  font-size: 50px;
+  font-weight: 500;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding-left: 0px;
+  padding-top: 50px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+.smallhead {
+  font-size: 20px;
+  font-weight: 200;
+  color: #afafaf;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.aboutcontainer {
+  position: relative;
+  background-color: #313131;
+  border-radius: 10px;
+  bottom: 110px;
+}
+.myimg {
+  padding: 20px;
+}
+.imgcontainer1 {
+  padding: 20px;
+  background-color: #313131;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  margin: 20px;
+  transition: 0.3s;
+}
+.imgcontainer1:hover {
+  padding: 20px;
+  background-color: #793a57;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  margin: 20px;
+}
+.imgcontainer2 {
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow:0px 0px 18px #444444;
+  margin: 20px;
+  transition: 0.3s;
+}
+.imgcontainer2:hover {
+  padding: 20px;
+  background-color: #164664;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  margin: 20px;
+}
+.imgcontainer3 {
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow:0px 0px 18px #444444;
+  margin: 20px;
+  transition: 0.3s;
+}
+.imgcontainer3:hover {
+  padding: 20px;
+  background-color: #0f3044;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  margin: 20px;
+}
+.imgcontainer4 {
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow:0px 0px 18px #444444;
+  margin: 20px;
+  transition: 0.3s;
+}
+.imgcontainer4:hover {
+  padding: 20px;
+  background-color: #9dabff;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  margin: 20px;
+}
+.imgcontainer5 {
+  padding: 20px;
+  border-radius: 40px;
+  box-shadow:0px 0px 18px #444444;
+  margin: 20px;
+  transition: 0.3s;
+}
+.imgcontainer5:hover {
+  padding: 20px;
+  background-color: #ff3f1d;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  margin: 20px;
+}
+.insta {
+  max-width: 30px;
+}
+.fb {
+  max-width: 30px;
+}
+.gm {
+  max-width: 30px;
+}
+.linked {
+  max-width: 30px;
+}
+.twit {
+  max-width: 30px;
+}
+.portfolio {
+  padding: 20px;
+  color: white;
+  background-color: #313131;
+  box-shadow:0px 0px 18px #444444;
+  border-radius: 40px;
+  border-style: none;
+  margin: 20px;
+  transition: 0.3s;
+}
+/*Biggest screen*/
+@media screen and (min-width: 2040px) {
+  .maintext {
+    font-family: poppins;
+    font-weight: bolder;
+    font-size: 48px;
+  
+  }
+}
+/*Iphone SE*/
+@media screen and (min-width: 315px) {
+  body {
+    background-color: black;
+    margin: 0px 10px 0px 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.main {
+  margin: 50px 10px 20px 10px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 13px;
+  max-width: 100%;
+  padding: 0px 20px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+.frow {
+  text-align: center;
+  background-color: #07080d;
+  margin:50px 0px 0px 0px;
+  padding: 20px;
+}
+}
+/*Iphone X,7,8*/
+@media screen and (min-width: 375px) {
+  body {
+    background-color: black;
+    margin: 0px 10px 0px 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.main {
+  margin: 50px 15px 20px 0px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 17px;
+  max-width: 100%;
+  padding: 0px 10px 0px 10px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+.frow {
+  background-color: #07080d;
+  margin:50px 0px 0px 0px;
+  padding: 20px;
+  text-align: center;
+}
+.big {
+  text-align: start;
+}
+}
+/*Iphone 7,8 + */
+@media screen and (min-width: 410px) {
+  body {
+    background-color: black;
+    margin: 0px 10px 0px 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.main {
+  margin: 50px 10px 20px 10px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 18px;
+  max-width: 100%;
+  padding: 0px 20px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+}
+/*Ipad*/
+@media screen and (min-width: 768px) {
+  body {
+    background-color: black;
+    margin: 0px 10px 0px 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.main {
+  margin: 50px 10px 20px 10px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 38px;
+  max-width: 100%;
+  padding: 0px 20px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+}
+/*Ipad Pro*/
+@media screen and (min-width: 1023px) {
+  body {
+    background-color: black;
+    margin: 0px 10px 0px 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.main {
+  margin: 50px 10px 20px 80px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 50px;
+  max-width: 100%;
+  padding: 0px 20px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+}
+@media screen and (min-width: 1900px) {
+  body {
+    background-color: black;
+    margin: 0px 10px 0px 10px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.main {
+  margin: 50px 10px 20px 80px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 45px;
+  max-width: 100%;
+  padding: 0px 20px 0px 20px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+}
+/*fold*/
+@media screen and (max-width: 319px) {
+  body {
+    background-color: black;
+    margin: 0px 0px 0px 0px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.navbar{
+  padding: 10px 10px 10px 10px;
+}
+.main {
+  margin: 50px 10px 20px 0px;
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.maintext {
+  font-family: poppins;
+  font-weight: bolder;
+  font-size: 12px;
+  max-width: 100%;
+  padding: 0px 10px 0px 10px;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+}
