@@ -8,45 +8,36 @@
 
 
 <url>
-  <loc>https://www.techtwist.ga/</loc>
+  <loc>https://www.techtwist.tech/</loc>
   <lastmod>2020-11-03T10:27:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.techtwist.ga/index.html</loc>
+  <loc>https://www.techtwist.tech/index.html</loc>
   <lastmod>2020-11-03T10:27:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.techtwist.ga/videos.html</loc>
+  <loc>https://www.techtwist.tech/videos.html</loc>
   <lastmod>2020-11-03T10:27:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.techtwist.ga/tutorials.html</loc>
+  <loc>https://www.techtwist.tech/tutorials.html</loc>
   <lastmod>2020-11-03T10:27:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.techtwist.ga/aboutus.html</loc>
+  <loc>https://www.techtwist.tech/aboutme.html</loc>
   <lastmod>2020-11-03T10:27:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.techtwist.ga/collaborate.html</loc>
+  <loc>https://www.techtwist.tech/contactme.html</loc>
   <lastmod>2020-11-03T10:27:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://www.techtwist.ga/contactus.html</loc>
-  <lastmod>2020-11-03T10:27:11+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.techtwist.ga/tutorialin.html</loc>
-  <lastmod>2020-11-03T10:27:11+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+
 
 
 </urlset>
