@@ -253,6 +253,9 @@ footer {
 .desc {
   font-weight: 200;
 }
+.embed {
+  margin: 20px;
+}
 /*Biggest screen*/
 @media screen and (min-width: 2040px) {
   .maintext {
