@@ -5,6 +5,10 @@ body {
     color: white;
     overflow-x: hidden;
 }
+.heading{
+  margin: auto;
+  text-align: center;
+}
 .navbar .navbar-collapse {
   font-size: 14px;
   text-align: center;
